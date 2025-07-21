@@ -1,5 +1,5 @@
 services:
   dynu-client:
-    build: .
+    image: "bachcx0708/dynu-client-unofficial:0.1"
     volumes:
     - ./appsettings.json:/usr/share/dynu-ip-update-client/appsettings.json
