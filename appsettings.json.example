@@ -1,0 +1,23 @@
+{
+  "Settings": {
+    "Username": "",
+    "Password": "",
+    "MD5Password": "",
+    "Group": "",
+    "PollInterval": 120,
+    "Logging": "true",
+    "LogLevel": "DETAILED",
+    "IPv4": "true",
+    "IPv6": "true",
+    "ConnectionType": "DETECTIPONSERVERSIDE",
+    "SpecifiedIPv4Address": "",
+    "SpecifiedIPv6Address": "",
+    "SpecifiedMACID": ""
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  }
+}

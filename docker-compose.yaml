@@ -1,0 +1,5 @@
+services:
+  dynu-client:
+    build: .
+    volumes:
+    - ./appsettings.json:/usr/share/dynu-ip-update-client/appsettings.json
